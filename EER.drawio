@@ -160,8 +160,14 @@
         <mxCell id="DH8hbM5EvVcrCHiDLt3n-63" value="Door" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="644.5" y="615" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DH8hbM5EvVcrCHiDLt3n-64" value="Flexible Wall" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DH8hbM5EvVcrCHiDLt3n-64" value="Flexible Wall" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="500" y="460" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DH8hbM5EvVcrCHiDLt3n-65" value="Confirm Button" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="480" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DH8hbM5EvVcrCHiDLt3n-66" value="Confirm Button" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="440" width="85" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
