@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.3.0">
   <diagram name="Page-1" id="099fd60b-425b-db50-ffb0-6b813814b670">
-    <mxGraphModel dx="1012" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1406" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
           <mxGeometry x="343" y="295" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DH8hbM5EvVcrCHiDLt3n-30" value="Whiteboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="665" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="665" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DH8hbM5EvVcrCHiDLt3n-31" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Table" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="665" y="360" width="120" height="100" as="geometry" />
@@ -140,7 +140,7 @@
           <mxGeometry x="343" y="615" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DH8hbM5EvVcrCHiDLt3n-57" value="Whiteboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="665" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="665" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DH8hbM5EvVcrCHiDLt3n-58" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Table" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="665" y="680" width="120" height="100" as="geometry" />
@@ -168,6 +168,12 @@
         </mxCell>
         <mxCell id="DH8hbM5EvVcrCHiDLt3n-66" value="Confirm Button" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="532.5" y="440" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DH8hbM5EvVcrCHiDLt3n-70" value="Whiteboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DH8hbM5EvVcrCHiDLt3n-71" value="Whiteboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
