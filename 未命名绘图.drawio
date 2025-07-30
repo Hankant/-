@@ -1289,7 +1289,7 @@
         </mxCell>
         <mxCell id="OhD5NIxNrlfR1AP698iL-58" value="&lt;b&gt;Evaluate&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];whiteSpace=wrap;labelBackgroundColor=none;" parent="OhD5NIxNrlfR1AP698iL-57" vertex="1" connectable="0">
           <mxGeometry x="-0.0177" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-26" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OhD5NIxNrlfR1AP698iL-55" value="Evaluation Agent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
