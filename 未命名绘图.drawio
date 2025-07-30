@@ -1216,7 +1216,7 @@
             <mxPoint x="1174.0300000000002" y="1273.4300000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OhD5NIxNrlfR1AP698iL-14" value="Ask question" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="OhD5NIxNrlfR1AP698iL-14" value="&lt;b&gt;Ask question&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1170.81" y="1227" width="117.61" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OhD5NIxNrlfR1AP698iL-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#bac8d3;strokeColor=#23445d;width=5.714285714285714;endSize=4.451428571428571;endWidth=6.448979591836734;" parent="1" edge="1">
@@ -1225,7 +1225,7 @@
             <mxPoint x="1290" y="1250.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OhD5NIxNrlfR1AP698iL-18" value="Answer question" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="OhD5NIxNrlfR1AP698iL-18" value="&lt;b&gt;Answer question&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1172.3899999999999" y="1283" width="117.61" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OhD5NIxNrlfR1AP698iL-19" value="Baseline Response Agent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
@@ -1234,7 +1234,7 @@
         <mxCell id="OhD5NIxNrlfR1AP698iL-20" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;fontStyle=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="1338.11" y="1270.76" width="92.78" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OhD5NIxNrlfR1AP698iL-23" value="Ten Rounds of Continuous Dialogue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="OhD5NIxNrlfR1AP698iL-23" value="&lt;b&gt;Ten Rounds of Continuous Dialogue&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1400.1799999999998" y="1274.62" width="117.61" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OhD5NIxNrlfR1AP698iL-25" value="Split the Dialogueinto five parts" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
